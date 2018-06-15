@@ -10,4 +10,6 @@ private:
 
 public:
 	transaction(char type, double amount, double balance, string description);
+	
+	//PT -- probably need some get functions here for your member variables.
 };
